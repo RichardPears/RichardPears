@@ -1,9 +1,13 @@
+
 ### Hi there 👋
 
-- 🔭 Working on deploying apps on AWS
-- 📫 How to reach me: [Gmail](mailto:richardpears46@gmail.com)
-- ⚡ All things data related
-- 📈 Find my work on [Tableau](https://public.tableau.com/profile/richard.pears#!/)
-<div id="header" align="Left">
+I'm Building and deploying data-driven apps in the cloud.
+
+* 🔭 Working on containerized apps with **AWS**
+* ⚙️ Python, SQL, and cloud-native tools
+* 📫 How to reach me: [Gmail](mailto:richardpears46@gmail.com)
+
+<div id="header" align="left">
   <img src="https://www.codewars.com/users/Richard04/badges/small" />
 </div>
+
